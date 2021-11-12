@@ -1,4 +1,4 @@
-path: /home/cwhuang1021/TBrain_OCR_competition/public_yolov5_data
+path: ./public_yolov5_data
 train: train_split/images
 val: val_split/images
 
